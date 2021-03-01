@@ -1,0 +1,14 @@
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Application\bin\Debug\netcoreapp3.1\ItiDigital.Core.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Application\bin\Debug\netcoreapp3.1\ItiDigital.Domain.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Application\obj\Debug\netcoreapp3.1\ItiDigital.Application.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Application\obj\Debug\netcoreapp3.1\ItiDigital.Application.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Application\obj\Debug\netcoreapp3.1\ItiDigital.Application.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Application\bin\Debug\netcoreapp3.1\ItiDigital.Application.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Application\bin\Debug\netcoreapp3.1\ItiDigital.Application.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Application\bin\Debug\netcoreapp3.1\ItiDigital.Application.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Application\bin\Debug\netcoreapp3.1\ItiDigital.Domain.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Application\bin\Debug\netcoreapp3.1\ItiDigital.Core.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Application\obj\Debug\netcoreapp3.1\ItiDigital.Application.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Application\obj\Debug\netcoreapp3.1\ItiDigital.Application.csproj.CopyComplete
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Application\obj\Debug\netcoreapp3.1\ItiDigital.Application.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Application\obj\Debug\netcoreapp3.1\ItiDigital.Application.pdb

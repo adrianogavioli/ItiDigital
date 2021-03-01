@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ktCwRpYABByldk6i774WKegY7aVDMqRoS1/PSHgtUSzAXr9Ry/hTa+XSSvDbDmW+pUat7XDY69HDSutjphwB1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ItiDigital\\src\\ItiDigital.Domain\\ItiDigital.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Core\bin\Debug\netcoreapp3.1\ItiDigital.Core.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Core\bin\Debug\netcoreapp3.1\ItiDigital.Core.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Core\bin\Debug\netcoreapp3.1\ItiDigital.Core.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Core\obj\Debug\netcoreapp3.1\ItiDigital.Core.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Core\obj\Debug\netcoreapp3.1\ItiDigital.Core.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Core\obj\Debug\netcoreapp3.1\ItiDigital.Core.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Core\obj\Debug\netcoreapp3.1\ItiDigital.Core.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Core\obj\Debug\netcoreapp3.1\ItiDigital.Core.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ItiDigital\src\ItiDigital.Core\obj\Debug\netcoreapp3.1\ItiDigital.Core.pdb
